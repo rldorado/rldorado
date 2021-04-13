@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**rldorado/rldorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **rldorado/rldorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm a **Front-End Engineer**, passionate about Design, UI & UX because of my Game Developer background. I love to be on lastest technologies of JavaScript or TypeScript environments and use clean and self-explanatory code to make everyone lifes easier.
 
