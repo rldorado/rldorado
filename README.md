@@ -6,7 +6,16 @@ I'm a **Front-End Engineer**, passionate about Design, UI & UX because of my Gam
 
 Currently I'm very focused on [Vue](https://vuejs.org/) library as I find it very easy to understand and powerful at same time. I'm also trying to get closer to mobile world and learn [PWA](https://web.dev/progressive-web-apps/) with typed code as **TypeScript** and **Styled components**.
 
-#### Where to find me
+### Where to find me
 
 - 💬 Talk to me on [Linkedin](https://www.linkedin.com/in/rldorado/)
 - Coming soon...
+
+### My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rldorado&theme=nord_dark" />
+    <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rldorado&theme=nord_dark" />
+  </a>
+</p>
