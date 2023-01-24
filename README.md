@@ -8,6 +8,7 @@ Continuously learning to deliver exceptional solutions!
 ## Skills and Experience
 
 - 🕶️ Vue
+- 🎨 Tailwindcss
 - 💻 HTML, CSS, JS/TS
 
 ## Other
