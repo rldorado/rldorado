@@ -1,21 +1,20 @@
-### Hi there 👋
-
 <!-- **rldorado/rldorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a **Front-End Engineer**, passionate about Design, UI & UX because of my Game Developer background. I love to be on lastest technologies of JavaScript or TypeScript environments and use clean and self-explanatory code to make everyone lifes easier.
+# Rafael López Dorado
+I'm Rafael from Spain, I'm proficient in building interactive web applications and skilled in frontend development and design. I do also have strong understanding of game development principles and user engagement.
 
-Currently I'm very focused on [Vue](https://vuejs.org/) library as I find it very easy to understand and powerful at same time. I'm also trying to get closer to mobile world and learn [PWA](https://web.dev/progressive-web-apps/) with typed code as **TypeScript** and **Styled components**.
+Continuously learning to deliver exceptional solutions!
 
-### Where to find me
+## Skills and Experience
 
-- 💬 Talk to me on [Linkedin](https://www.linkedin.com/in/rldorado/)
-- Coming soon...
+- 🕶️ Vue
+- 💻 HTML, CSS, JS/TS
 
-### My Statistics
+## Other
 
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rldorado&theme=nord_dark" />
-    <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rldorado&theme=nord_dark" />
-  </a>
-</p>
+- 🔭 I’m currently working on [Vue](https://vuejs.org/) based responsive applications
+- 🌱 I’m currently learning [Progressive Web Applications](https://web.dev/progressive-web-apps/)
+- ⚡ Fun fact: I'm long experienced D&D narrator 🐉🎲 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rldorado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rldorado/)
