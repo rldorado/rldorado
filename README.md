@@ -7,15 +7,12 @@ Continuously learning to deliver exceptional solutions!
 
 ## Skills and Experience
 
-- 🕶️ Vue
+- 🕶️ Vue, Nuxt
 - 🎨 Tailwindcss
-- 💻 HTML, CSS, JS/TS
+- 💻 HTML5, CSS3/SCSS, JS/TS
 
 ## Other
 
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) based responsive applications
-- 🌱 I’m currently learning [Progressive Web Applications](https://web.dev/progressive-web-apps/)
-- ⚡ Fun fact: I'm long experienced D&D narrator 🐉🎲 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rldorado)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rldorado/)
+- 🌱 I’m currently learning IA 🤖 & Video Edition 🎥
+- ⚡ Fun fact: I'm long experienced D&D narrator 🐉🎲
