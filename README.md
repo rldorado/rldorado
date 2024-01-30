@@ -14,5 +14,5 @@ Continuously learning to deliver exceptional solutions!
 ## Other
 
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) based responsive applications
-- 🌱 I’m currently learning IA 🤖 & Video Edition 🎥
+- 🌱 I’m currently learning AI 🤖 & Video Edition 🎥
 - ⚡ Fun fact: I'm long experienced D&D narrator 🐉🎲
