@@ -1,11 +1,11 @@
 <!-- **rldorado/rldorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Rafael López Dorado
+# I'm [Rafael López Dorado](https://rldorado.github.io)
 
 [![GitHub followers](https://img.shields.io/github/followers/rldorado?style=social)](https://github.com/rldorado)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rldorado)
 
-I'm Rafael from Spain, I'm proficient in building interactive web applications and skilled in frontend development and design. I do also have strong understanding of game development principles and user engagement. I love to work on responsive designs and very UX focused projects.
+I'm from Spain 🇪🇸, proficient in building interactive web applications and skilled in frontend development and design. I do also have strong understanding of game development principles and user engagement. I love to work on responsive designs and UX focused projects. I say that "If you have to explain an UX, then you have a bad one", narrative is important.
 
 Continuously learning to deliver exceptional solutions!
 
