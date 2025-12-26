@@ -23,7 +23,6 @@ Continuously learning to deliver exceptional solutions!
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 ## Other
 
