@@ -25,7 +25,7 @@ Continuously learning to deliver exceptional solutions!
 
 ## Other
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rldorado&layout=compact&theme=radical)
+![Most used languages](https://github-readme-stats-oa7ss36cd-rldorados-projects.vercel.app/api/top-langs/?username=rldorado&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) based responsive applications
 - 🌱 I’m currently learning AI 🤖 & Video Edition 🎥
